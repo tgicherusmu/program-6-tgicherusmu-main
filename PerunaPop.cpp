@@ -75,5 +75,4 @@ PerunaPop::~PerunaPop(){
     for(int x=5; x > 0; x--){
         delete balloons.at(x);
     }
-
 }
